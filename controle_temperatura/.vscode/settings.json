@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "guiapp_specifications.h": "c",
+        "guiapp_resources.h": "c"
+    }
+}

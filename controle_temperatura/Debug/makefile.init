@@ -1,0 +1,13 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\toolchains\gcc_arm\gcc-arm-none-eabi-10.3-2021.10\bin\;C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\eclipse\plugins\com.renesas.ide.exttools.busybox.win32.x86_64_1.3.5.v20220125-0945\bin\;C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\eclipse\plugins\com.renesas.ide.exttools.gnumake.win32.x86_64_4.3.0.v20220121-1024\mk\;C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\eclipse\plugins\com.renesas.ide.exttools.synergy.build.win32.x86_64_1.0.0.v20220328-1312\isdebuild\;C:/Renesas/Synergy/e2studio_v2022-04_ssp_v2.3.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.12.v20211011-1323/jre/bin/server;C:/Renesas/Synergy/e2studio_v2022-04_ssp_v2.3.0/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.12.v20211011-1323/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\fewii\AppData\Local\Microsoft\WindowsApps;;C:\Users\fewii\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\fewii\.dotnet\tools;C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\eclipse
+export TCINSTALL=C:\Renesas\Synergy\e2studio_v2022-04_ssp_v2.3.0\toolchains\gcc_arm\gcc-arm-none-eabi-10.3-2021.10$(call arg1,\)
+export CWD=$(CURDIR)
+export AMS_LICENSE_PATH=
+export TC_VERSION=10.3.1.20210824
+export AMS_KEEP_FILE=false
+export PWD=$(CURDIR)
+export GCC_VERSION=10.3.1
